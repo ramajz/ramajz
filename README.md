@@ -18,12 +18,11 @@ Bukan mockup, bukan repo contoh. Tiga sistem produksi yang saya bangun sendiri d
 | **[CRM-Utapes](https://crm.rmjz.my.id)** | CRM follow-up tim CS. Memantau ribuan lead per bulan dan mengirim rekap otomatis tiap pagi ke Telegram. | Live |
 | **[rmjz.my.id](https://rmjz.my.id)** | Katalog produk digital & portofolio. Etalase, halaman layanan, dan pelacakan pengunjung — dikelola tanpa developer. | Live |
 
-## Repo yang bisa dilihat
+## Soal kode
 
-- **[crm-utapes](https://github.com/ramajz/crm-utapes)** — Laravel + Livewire + PostgreSQL (NeonDB). Lead management, dashboard kohort bulanan, webhook.
-- **[crm-followup-audit](https://github.com/ramajz/crm-followup-audit)** — Python. Cron harian: tarik data Google Sheets via Apps Script, hitung status follow-up per CS, kirim rekap ke Telegram.
-- **[rrfamily22_bot](https://github.com/ramajz/rrfamily22_bot)** — Node.js di Cloudflare Workers + Hono + D1. Bot keuangan: input bahasa natural, konfirmasi tombol, laporan budget otomatis.
-- **[kulinerlumajang-id](https://github.com/ramajz/kulinerlumajang-id)** — struktur proyek & aturan kerja KulinerLumajang.
+Source code tiap proyek tidak saya publikasikan — bukan karena disembunyikan dari klien, tapi karena **kode itu milik klien**. Yang bisa dinilai dari luar adalah hasilnya: tiga sistem di atas berjalan dan bisa dibuka siapa pun.
+
+Itu juga alasan tidak ada repo demo di sini. Yang saya jual bukan potongan kode, tapi sistem yang berhenti dikerjakan manual.
 
 ## Stack
 
